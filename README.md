@@ -1,1 +1,4 @@
-# CMPE279-assignment-1
+# CMPE279 Assignment
+
+Team member
+- Esha Sah (015250534)
